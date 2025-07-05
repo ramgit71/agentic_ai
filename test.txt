@@ -2,3 +2,4 @@ hello!
 edited!
 added a very important change
 added a cool feature
+hey, we fixed the bug
